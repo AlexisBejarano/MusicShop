@@ -1,0 +1,128 @@
+﻿{
+  "nombreTienda":"Music Shop",
+  "descripcion":"Venta y apartado de instrumentos musicales",
+  "cuenta":"2000101",
+  "clabe":"0000000101",
+  "moneda":"MXN",
+	
+  "cliente": {
+    "codigo":"10001",
+    "nombre":"Victor Manuel",
+    "domicilio":"Colonia Independencia Calle Guadalupe Victoria",
+    "ciudad":"Guaymas, Sonora",
+    "rfc":"MAAV971205HSRNGC06",
+    "cp":"85490"
+  },
+
+  "movimientos":
+              [
+                {
+                  "fecha": "2022-08-01",
+                  "descripcion": "Guitarra Epipone",
+                  "cantidad": 2500,
+                  "tipo": 1
+                },
+                {
+                  "fecha": "2022-07-02",
+                  "descripcion": "Violin Cremona",
+                  "cantidad": 8000,
+                  "tipo": 1
+                },
+                {
+                  "fecha": "2022-10-20",
+                  "descripcion": "Viola Cremona",
+                  "cantidad": 10000,
+                  "tipo": 1
+                },
+                {
+                  "fecha": "2022-09-25",
+                  "descripcion": "Cello Amadeus",
+                  "cantidad": 12000,
+                  "tipo": 1
+                },
+                {
+                  "fecha": "2022-06-05",
+                  "descripcion": "ContraBajo Hoefner",
+                  "cantidad": 18000,
+                  "tipo": 1
+                },
+                {
+                  "fecha": "2022-10-15",
+                  "descripcion": "Flauta Transversal",
+                  "cantidad": 5000,
+                  "tipo": 2
+                },
+                {
+                  "fecha": "2022-05-21",
+                  "descripcion": "Oboe SilverTone",
+                  "cantidad": 5000,
+                  "tipo": 1
+                },
+                {
+                  "fecha": "2022-09-28",
+                  "descripcion": "Trompeta Bentley",
+                  "cantidad": 8000,
+                  "tipo": 1
+                },
+                {
+                  "fecha": "2022-11-04",
+                  "descripcion": "Xilofono Modelo 02Rx400Fna2",
+                  "cantidad": 12000,
+                  "tipo": 1
+                },
+                {
+                  "fecha": "2022-04-09",
+                  "descripcion": "Saxofon Alto Eb",
+                  "cantidad": 9000,
+                  "tipo": 2
+                },
+                {
+                  "fecha": "2022-10-11",
+                  "descripcion": "Clarinete Roy Benson",
+                  "cantidad": 4000,
+                  "tipo": 1
+                },
+                {
+                  "fecha": "2022-03-29",
+                  "descripcion": "Trombon SilverTone",
+                  "cantidad": 5000,
+                  "tipo": 2
+                },
+                {
+                  "fecha": "2022-09-02",
+                  "descripcion": "Tuba SilverTone",
+                  "cantidad": 7000,
+                  "tipo": 1
+                },
+                {
+                  "fecha": "2022-01-02",
+                  "descripcion": "Fagot Bentley",
+                  "cantidad": 9000,
+                  "tipo": 2
+                },
+                {
+                  "fecha": "2022-11-02",
+                  "descripcion": "Bombo PowerBeat",
+                  "cantidad": 17000,
+                  "tipo": 1
+                },
+                {
+                  "fecha": "2022-02-02",
+                  "descripcion": "Timbal Orquestal",
+                  "cantidad": 30000,
+                  "tipo": 1
+                },
+                {
+                  "fecha": "2022-10-02",
+                  "descripcion": "Tarola Gretsch",
+                  "cantidad": 4000,
+                  "tipo": 1
+                },
+			{
+                  "fecha": "2022-12-03",
+                  "descripcion": "Platillos PowerBeat",
+                  "cantidad": 2000,
+                  "tipo": 1
+                }
+              ]
+}
